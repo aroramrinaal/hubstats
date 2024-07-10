@@ -1,6 +1,9 @@
 {
-  "name": "backend",
+  "name": "hubstats-backend",
   "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  },
   "description": "Backend for HubStats GitHub visualization tool",
   "main": "src/index.js",
   "scripts": {
