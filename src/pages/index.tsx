@@ -14,7 +14,7 @@ const Home = () => {
                 </h1>
               </div>
               <div className="flex flex-col items-start space-y-4">
-                <p className="mx-auto max-w-[700px] text-gray-300 md:text-xl">
+                <p className="mx-auto max-w-[700px] text-gray-300 text-2xl">
                   HubStats is a powerful tool that helps you track and visualize your GitHub contributions. Get insights
                   into your coding activity and stay motivated to keep contributing.
                 </p>
