@@ -23,11 +23,11 @@ const Home = () => {
                     <input
                       type="text"
                       placeholder="Enter your GitHub username"
-                      className="flex-1 px-3 py-2 bg-white text-black rounded-md"
+                      className="flex-1 px-3 py-2 bg-white text-black rounded-md focus:outline-none"
                     />
                     <button
                       type="submit"
-                      className="px-4 py-2 bg-white text-black font-semibold rounded-md hover:bg-gray-200 transition-colors"
+                      className="px-4 py-2 bg-white text-black font-semibold rounded-md hover:bg-hub-lightgrey transition-colors"
                     >
                       Analyze
                     </button>
