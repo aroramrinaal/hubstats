@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { useRouter } from 'next/router';
 import Navbar from '@/components/Navbar';
 import axios from 'axios';
+import Image from 'next/image';
 
 const Home = () => {
   const [username, setUsername] = useState('');
